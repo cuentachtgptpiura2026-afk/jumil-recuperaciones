@@ -1,0 +1,13 @@
+PUBLICAR EN NETLIFY DROP
+
+1. Descomprime este ZIP.
+2. Entra a https://app.netlify.com/drop
+3. Arrastra la carpeta completa "jumil-netlify-ready" o todos sus archivos.
+4. Netlify generará una URL pública temporal inmediatamente.
+5. Si luego asignas un dominio propio, reemplaza YOUR-DOMAIN.example en robots.txt y sitemap.xml por ese dominio.
+
+IMPORTANTE:
+- index.html debe quedar en la raíz del sitio.
+- No requiere npm, Node.js ni proceso de build.
+- Las imágenes dinámicas actuales se cargan desde Unsplash.
+- La imagen de vista previa social está en assets/og-jumil.jpg.
